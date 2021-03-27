@@ -1,2 +1,8 @@
 Our ChatBot recommend the songs base on your favorite songs use the platform of Discord
+This is my github link the dataset and some documents are too big so can not be upload on github so i will put it in a zip file
+https://github.com/Tianqi321/chatbot/
+Important:Once i upload my code on github, i've recived i mail from Discord told me that my code has been upload publicly ,so they changed 
+my Bot token and sercurity code,it seems i can not publish it publicly.
+
+
 In ordre to test it you should change the path Because i use the native path on my computer
