@@ -1,0 +1,2 @@
+Our ChatBot recommend the songs base on your favorite songs use the platform of Discord
+In ordre to test it you should change the path Because i use the native path on my computer
